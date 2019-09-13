@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SmokeSuite" duration-ms="10252" started-at="2019-09-10T10:09:37 IST" finished-at="2019-09-10T10:09:47 IST">
+    <groups>
+    </groups>
+    <test name="Smoke1" duration-ms="10252" started-at="2019-09-10T10:09:37 IST" finished-at="2019-09-10T10:09:47 IST">
+      <class name="mindq.maven1.App">
+        <test-method status="PASS" signature="test1()[pri:0, instance:mindq.maven1.App@2b9627bc]" name="test1" duration-ms="10219" started-at="2019-09-10T10:09:37 IST" finished-at="2019-09-10T10:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- mindq.maven1.App -->
+    </test> <!-- Smoke1 -->
+  </suite> <!-- SmokeSuite -->
+</testng-results>
